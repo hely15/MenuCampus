@@ -25,7 +25,7 @@ if __name__ == '__main__':
                             pass
                         case _:
                             funcionesCampers.verF(funcionesCampers.mensaje)
-                
+
             case 2:
                 funcionesTrainers.ingresarTrainer(funcionesTrainers.trainersData)
             case 3:
@@ -41,8 +41,8 @@ if __name__ == '__main__':
                         case 3: 
                             funcionesCampers.subirAdmision(funcionesCampers.campersData)
                         case 4:
-                            break
+                            pass
                         case _:
                             funcionesCampers.verF('<:>')
             case _:
-                break
+                funcionesCampers.verF('<:>')
