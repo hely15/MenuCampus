@@ -1,0 +1,38 @@
+{
+  "11026358": {
+    "nombre": "Pedro",
+    "numeroDocumento": 11026358,
+    "clasesAsignadas": {
+      "p1": {
+        "horrio": "6:00Am - 9:30Am",
+        "ruta": "Ruta NodeJS",
+        "estudiantes": "0",
+        "salon": "artemis"
+      }
+    }
+  },
+  "11026524": {
+    "nombre": "Jolver",
+    "numeroDocumento": 11026524,
+    "clasesAsignadas": {
+      "j1": {
+        "horrio": "6:00Am - 9:30Am",
+        "ruta": "Ruta NodeJS",
+        "estudiantes": "0",
+        "salon": "apolo"
+      }
+    }
+  },
+  "1102685477": {
+    "nombre": "mateo",
+    "numeroDocumento": 1102685477,
+    "clasesAsignadas": {
+      "m1": {
+        "horrio": "12:00pm - 1:00am",
+        "ruta": "java javaa",
+        "estudiantes": 1,
+        "salon": "spunik"
+      }
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+    "p1": {
+        "trainer": "Pedro",
+        "ruta": "ruta javaScrip",
+        "horario": "6:00Am - 9:30Am ",
+        "salon": "apolo",
+        "modulos": {
+            "modulo1": "Fundamentos de programacio\u0301n (Introduccio\u0301n a la algoritmia, PSeInt y Python",
+            "modulo2": "Programacio\u0301n Web (HTML, CSS y Bootstrap)",
+            "modulo3": "Programacio\u0301n formal (Java, JavaScript, C#).",
+            "modulo4": "Bases de datos (Mysql, MongoDb y Postgresql)",
+            "modulo5": " Backend (NetCore, Spring Boot, NodeJS y Express)."
+        },
+        "estudiantes": {
+            "12345678": {
+                "nombre": "Ortega",
+                "apellidos": "Julian",
+                "numeroDocumento": 12345678,
+                "direccion": "La 200",
+                "acudiente": "Jose",
+                "telefonos": {
+                    "celular": 31875767,
+                    "fijo": 1
+                },
+                "estado": {
+                    "En proceso": false,
+                    "Inscrito": false,
+                    "Aprobado": false,
+                    "Denegado": false,
+                    "Cursando": true,
+                    "Graduado": false,
+                    "Expulsado": false,
+                    "Retirado": false
+                },
+                "riesgo": false,
+                "horario": "6:00Am - 9:30Am ",
+                "ruta": "ruta javaScrip",
+                "notas": {
+                    "modulo1": 80.0,
+                    "modulo2": 0,
+                    "modulo3": 0,
+                    "modulo4": 0,
+                    "modulo5": 0
+                }
+            }
+        }
+    },
+    "m1": {
+        "trainer": "mateo",
+        "ruta": "java javaa",
+        "horario": "12:00pm - 1:00am",
+        "salon": "spunick",
+        "modulos": {
+            "modulo1": "Fundamentos de programacio\u0301n (Introduccio\u0301n a la algoritmia, PSeInt y Python",
+            "modulo2": "Programacio\u0301n Web (HTML, CSS y Bootstrap)",
+            "modulo3": "Programacio\u0301n formal (Java, JavaScript, C#).",
+            "modulo4": "Bases de datos (Mysql, MongoDb y Postgresql)",
+            "modulo5": " Backend (NetCore, Spring Boot, NodeJS y Express)."
+        },
+        "estudiantes": {
+            "1102635547": {
+                "nombre": "Hely santiago",
+                "apellidos": "Diaz almeida",
+                "numeroDocumento": "1102635547",
+                "direccion": "Transversal 22e ",
+                "acudiente": "Orlando",
+                "telefonos": {
+                    "celular": 3187471767,
+                    "fijo": 1
+                },
+                "estado": {
+                    "En proceso": false,
+                    "Inscrito": true,
+                    "Aprobado": false,
+                    "Denegado": false,
+                    "Cursando": false,
+                    "Graduado": false,
+                    "Expulsado": false,
+                    "Retirado": false
+                },
+                "riesgo": false,
+                "horario": "12:00pm - 1:00am",
+                "ruta": "java javaa",
+                "notas": {
+                    "modulo1": 0,
+                    "modulo2": 0,
+                    "modulo3": 0,
+                    "modulo4": 0,
+                    "modulo5": 0
+                }
+            }
+        },
+        "112587": {
+            "nombre": "Claudia",
+            "apellidos": "Garces prada",
+            "numeroDocumento": 112587,
+            "direccion": "Hsdjbfds",
+            "acudiente": "Gdfhn",
+            "telefonos": {
+                "celular": 36574,
+                "fijo": 3
+            },
+            "estado": {
+                "En proceso": true,
+                "Inscrito": false,
+                "Aprobado": false,
+                "Denegado": false,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false
+            },
+            "riesgo": false,
+            "horario": "",
+            "ruta": "",
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            }
+        }
+    },
+    "1105487890": {
+        "nombre": "Angie",
+        "apellidos": "Restrepo",
+        "numeroDocumento": 1105487890,
+        "direccion": "1",
+        "acudiente": "Alex",
+        "telefonos": {
+            "celular": 315777,
+            "fijo": 1
+        },
+        "estado": {
+            "En proceso": true,
+            "Inscrito": false,
+            "Aprobado": false,
+            "Denegado": false,
+            "Cursando": false,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": false
+        },
+        "riesgo": false,
+        "horario": "",
+        "ruta": "",
+        "notas": {
+            "modulo1": 0,
+            "modulo2": 0,
+            "modulo3": 0,
+            "modulo4": 0,
+            "modulo5": 0
+        }
+    },
+    "1245": {
+        "nombre": "Kaeed",
+        "apellidos": "Fedg",
+        "numeroDocumento": 1245,
+        "direccion": "Fdsf",
+        "acudiente": "Sfgd",
+        "telefonos": {
+            "celular": 54,
+            "fijo": 456
+        },
+        "estado": {
+            "En proceso": true,
+            "Inscrito": false,
+            "Aprobado": false,
+            "Denegado": false,
+            "Cursando": false,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": false
+        },
+        "riesgo": false,
+        "horario": "12:pm / 1:am",
+        "ruta": "java javaa",
+        "notas": {
+            "modulo1": 0,
+            "modulo2": 0,
+            "modulo3": 0,
+            "modulo4": 0,
+            "modulo5": 0
+        }
+    },
+    "6554": {
+        "nombre": "Dsfadsa",
+        "apellidos": "Svd",
+        "numeroDocumento": 6554,
+        "direccion": "Gfd",
+        "acudiente": "Fd",
+        "telefonos": {
+            "celular": 64,
+            "fijo": 64
+        },
+        "estado": {
+            "En proceso": true,
+            "Inscrito": false,
+            "Aprobado": false,
+            "Denegado": false,
+            "Cursando": false,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": false
+        },
+        "riesgo": false,
+        "horario": "",
+        "ruta": "",
+        "notas": {
+            "modulo1": 0,
+            "modulo2": 0,
+            "modulo3": 0,
+            "modulo4": 0,
+            "modulo5": 0
+        }
+    },
+    "12345": {
+        "nombre": "Sebas",
+        "apellidos": "Betan",
+        "numeroDocumento": 12345,
+        "direccion": "Calle",
+        "acudiente": "Das",
+        "telefonos": {
+            "celular": 32,
+            "fijo": 342
+        },
+        "estado": {
+            "En proceso": true,
+            "Inscrito": false,
+            "Aprobado": false,
+            "Denegado": false,
+            "Cursando": false,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": false
+        },
+        "riesgo": false,
+        "horario": "",
+        "ruta": "",
+        "notas": {
+            "modulo1": 0,
+            "modulo2": 0,
+            "modulo3": 0,
+            "modulo4": 0,
+            "modulo5": 0
+        }
+    },
+    "12345678": {
+        "nombre": "Ortega",
+        "apellidos": "Julian",
+        "numeroDocumento": 12345678,
+        "direccion": "La 200",
+        "acudiente": "Jose",
+        "telefonos": {
+            "celular": 31875767,
+            "fijo": 1
+        },
+        "estado": {
+            "En proceso": false,
+            "Inscrito": false,
+            "Aprobado": false,
+            "Denegado": false,
+            "Cursando": true,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": false
+        },
+        "riesgo": false,
+        "horario": "6:00Am - 9:30Am ",
+        "ruta": "ruta javaScrip",
+        "notas": {
+            "modulo1": 0,
+            "modulo2": 0,
+            "modulo3": 0,
+            "modulo4": 0,
+            "modulo5": 0
+        }
+    },
+    "1102635547": {
+        "nombre": "Hely santiago",
+        "apellidos": "Diaz almeida",
+        "numeroDocumento": "1102635547",
+        "direccion": "Transversal 22e ",
+        "acudiente": "Orlando",
+        "telefonos": {
+            "celular": 3187471767,
+            "fijo": 1
+        },
+        "estado": {
+            "En proceso": false,
+            "Inscrito": true,
+            "Aprobado": false,
+            "Denegado": false,
+            "Cursando": false,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": false
+        },
+        "riesgo": false,
+        "horario": "12:00pm - 1:00am",
+        "ruta": "java javaa",
+        "notas": {
+            "modulo1": 0,
+            "modulo2": 0,
+            "modulo3": 0,
+            "modulo4": 0,
+            "modulo5": 0
+        }
+    },
+    "1102852963": {
+        "nombre": "Nicol",
+        "apellidos": "Ordo\u00f1ez ",
+        "numeroDocumento": 1102852963,
+        "direccion": "Cll 1n # 78-21",
+        "acudiente": "Fabio vargas",
+        "telefonos": {
+            "celular": 3159638574,
+            "fijo": 1
+        },
+        "estado": {
+            "En proceso": true,
+            "Inscrito": false,
+            "Aprobado": false,
+            "Denegado": false,
+            "Cursando": false,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": false
+        },
+        "riesgo": false,
+        "horario": "",
+        "ruta": "",
+        "notas": {
+            "modulo1": 0,
+            "modulo2": 0,
+            "modulo3": 0,
+            "modulo4": 0,
+            "modulo5": 0
+        }
+    }
+}
