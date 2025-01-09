@@ -20,3 +20,4 @@ La instalacion del programa es sencillo solo se tiene que descargar la  carpeta 
 
 ### Acerca del funcionamiento
 
+ https://drive.google.com/drive/folders/1-Y2O8ViH6SEKmmOIjUh5XJu2ei8J6Jq8?usp=sharing
